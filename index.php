@@ -50,7 +50,7 @@
                         Iniciar Sesión
                     </div> 
                     <div class="card-body">
-                        <form action="login.php" method="POST">
+                        <form action="process_login.php" method="POST">
                             <div class="form-group">
                                 <label for="username">Nombre de usuario:</label>
                                 <input type="text" class="form-control" id="username" name="username" required>
